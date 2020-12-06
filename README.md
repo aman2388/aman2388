@@ -1,5 +1,5 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Aman Parary and I'm a Computer Science with Data Science student in University College Dublin. My interests are data analysis, machine learning and deep learning. You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aman-parary-1677b91b5/).
+My name is Aman Parary and I'm a Computer Science with Data Science student in University College Dublin. My interests are data analysis, machine learning and deep learning. You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aman-parary-1677b91b5/) or email me  <amanparary@gmail.com>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
